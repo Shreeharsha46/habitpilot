@@ -1,0 +1,6 @@
+{
+  "name": "Habit Tracker",
+  "description": "Minimalist, research-grade AI-powered habit and task tracker with deep analytics, gamification, and intelligent coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
